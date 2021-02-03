@@ -13,6 +13,7 @@
 		DB0EBB1725CA7EB000FE062F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB0EBB1525CA7EB000FE062F /* Main.storyboard */; };
 		DB0EBB1925CA7EB300FE062F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB0EBB1825CA7EB300FE062F /* Assets.xcassets */; };
 		DB0EBB1C25CA7EB300FE062F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB0EBB1A25CA7EB300FE062F /* LaunchScreen.storyboard */; };
+		DB0EBB2625CA800100FE062F /* MainStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB0EBB2525CA800100FE062F /* MainStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB0EBB1825CA7EB300FE062F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB0EBB1B25CA7EB300FE062F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB0EBB1D25CA7EB300FE062F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB0EBB2525CA800100FE062F /* MainStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DB0EBB0F25CA7EB000FE062F /* AppDelegate.swift */,
 				DB0EBB1125CA7EB000FE062F /* SceneDelegate.swift */,
 				DB0EBB1325CA7EB000FE062F /* ViewController.swift */,
+				DB0EBB2525CA800100FE062F /* MainStruct.swift */,
 				DB0EBB1525CA7EB000FE062F /* Main.storyboard */,
 				DB0EBB1825CA7EB300FE062F /* Assets.xcassets */,
 				DB0EBB1A25CA7EB300FE062F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB0EBB1425CA7EB000FE062F /* ViewController.swift in Sources */,
+				DB0EBB2625CA800100FE062F /* MainStruct.swift in Sources */,
 				DB0EBB1025CA7EB000FE062F /* AppDelegate.swift in Sources */,
 				DB0EBB1225CA7EB000FE062F /* SceneDelegate.swift in Sources */,
 			);
